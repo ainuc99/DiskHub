@@ -1,3 +1,9 @@
+# virtual disks
+*.vhd
+*.vhdx
+*.iso
+*.7z
+
 # Prerequisites
 *.d
 
