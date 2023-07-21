@@ -5,7 +5,7 @@
 # UUID:        a1fe3133-c8d9-44d6-ae77-dd2bbe9aed85
 # SHORT ID:    a1fe3133
 #
-# SOURCE：     Windows 10 Business Editions
+# SOURCE:      Windows 10 Business Editions
 # FILE:        zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso
 # SIZE:        5.56 GB
 # MD5:         4A4AFA4730C15F7011556DE788808D43

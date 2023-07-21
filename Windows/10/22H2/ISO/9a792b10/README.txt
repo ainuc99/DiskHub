@@ -8,14 +8,14 @@
 
 Windows 11 (business editions), version 22H2 (updated March 2023) (x64) - DVD (Chinese-Simplified)
 
-# SOURCE：  Windows 10 Business Editions
-# FILE:     zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso
-# SIZE:     5.56 GB
-# MD5:      4A4AFA4730C15F7011556DE788808D43
-# SHA1:     FAC121AED76EDC418841C8D48EC930E377DD05DF
-# SHA256:   52E1EE5DEF4AE2DEB3FADBC29E35740ABB9C64106E89833386E3BE237544ABCC
-# LINK:     magnet:?xt=urn:btih:dcf16e4b9b13f5dc92865a7832a1712735afcf24&dn=zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso&xl=5970423808
-# 		    ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso|5970423808|BD89F1C3FD6B147C6FF63DA6D8A5CE89|/
+# SOURCE:      Windows 10 Business Editions
+# FILE:        zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso
+# SIZE:        5.56 GB
+# MD5:         4A4AFA4730C15F7011556DE788808D43
+# SHA1:        FAC121AED76EDC418841C8D48EC930E377DD05DF
+# SHA256:      52E1EE5DEF4AE2DEB3FADBC29E35740ABB9C64106E89833386E3BE237544ABCC
+# LINK:        magnet:?xt=urn:btih:dcf16e4b9b13f5dc92865a7832a1712735afcf24&dn=zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso&xl=5970423808
+#              ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso|5970423808|BD89F1C3FD6B147C6FF63DA6D8A5CE89|/
 #
 
 映像的详细信息: e:\sources\install.wim
