@@ -4,19 +4,19 @@
 
 ## Windows 10
 
-- [Windows 10 22H2](10\22H2\README.txt)  
-  - ISO [Consumer Editions](10\22H2\ISO\9a093d20\README.txt) [Bussiness Editions](10\22H2\ISO\9a792b10\README.txt)
-  - 全部发行版本 [L0](10\22H2\L0\a0b28d74\README.txt)
-  - Home [L1](10\22H2\Home\a1c562f3\README.txt)
-  - Professional [L1](10\22H2\Pro\a1fe3133\README.txt)
+- [Windows 10 22H2](10/22H2/README.txt)  
+  - ISO [Consumer Editions](10/22H2/ISO/9a093d20/README.txt) [Bussiness Editions](10/22H2/ISO/9a792b10/README.txt)
+  - 全部发行版本 [L0](10/22H2/L0/a0b28d74/README.txt)
+  - Home [L1](10/22H2/Home/a1c562f3/README.txt)
+  - Professional [L1](10/22H2/Pro/a1fe3133/README.txt)
 
 ## Windows 11
 
-- [Windows 11 22H2](11\22H2\README.txt)  
-  - ISO [Consumer Editions](11\22H2\ISO\9b82c4b2\README.txt) [Bussiness Editions](11\22H2\ISO\9bee62ca\README.txt)
-  - 全部发行版本 [L0](11\22H2\L0\b084f7dd\README.txt)
-  - Home [L1](11\22H2\Home\b1978722\README.txt)
-  - Professional [L1](11\22H2\Pro\b1882792\README.txt)
+- [Windows 11 22H2](11/22H2/README.txt)  
+  - ISO [Consumer Editions](11/22H2/ISO/9b82c4b2/README.txt) [Bussiness Editions](11/22H2/ISO/9bee62ca/README.txt)
+  - 全部发行版本 [L0](11/22H2/L0/b084f7dd/README.txt)
+  - Home [L1](11/22H2/Home/b1978722/README.txt)
+  - Professional [L1](11/22H2/Pro/b1882792/README.txt)
 
 ## Windows 镜像制作说明
 

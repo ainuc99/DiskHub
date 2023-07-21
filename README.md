@@ -51,19 +51,19 @@ VHD(x)镜像格式支持Fixed、Dynamic、Difference三种模式，其中Differe
 
 ## Windows 10
 
-- [Windows 10 22H2](Windows\10\22H2\README.txt)  
-  - ISO [Consumer Editions](Windows\10\22H2\ISO\9a093d20\README.txt) [Bussiness Editions](Windows\10\22H2\ISO\9a792b10\README.txt)
-  - 全部发行版本 [L0](Windows\10\22H2\L0\a0b28d74\README.txt)
-  - Home [L1](Windows\10\22H2\Home\a1c562f3\README.txt)
-  - Professional [L1](Windows\10\22H2\Pro\a1fe3133\README.txt)
+- [Windows 10 22H2](Windows/10/22H2/README.txt)  
+  - ISO [Consumer Editions](Windows/10/22H2/ISO/9a093d20/README.txt) [Bussiness Editions](Windows/10/22H2/ISO/9a792b10/README.txt)
+  - 全部发行版本 [L0](Windows/10/22H2/L0/a0b28d74/README.txt)
+  - Home [L1](Windows/10/22H2/Home/a1c562f3/README.txt)
+  - Professional [L1](Windows/10/22H2/Pro/a1fe3133/README.txt)
 
 ## Windows 11
 
-- [Windows 11 22H2](Windows\11\22H2\README.txt)  
-  - ISO [Consumer Editions](Windows\11\22H2\ISO\9b82c4b2\README.txt) [Bussiness Editions](Windows\11\22H2\ISO\9bee62ca\README.txt)
-  - 全部发行版本 [L0](Windows\11\22H2\L0\b084f7dd\README.txt)
-  - Home [L1](Windows\11\22H2\Home\b1978722\README.txt)
-  - Professional [L1](Windows\11\22H2\Pro\b1882792\README.txt)
+- [Windows 11 22H2](Windows/11/22H2/README.txt)  
+  - ISO [Consumer Editions](Windows/11/22H2/ISO/9b82c4b2/README.txt) [Bussiness Editions](Windows/11/22H2/ISO/9bee62ca/README.txt)
+  - 全部发行版本 [L0](Windows/11/22H2/L0/b084f7dd/README.txt)
+  - Home [L1](Windows/11/22H2/Home/b1978722/README.txt)
+  - Professional [L1](Windows/11/22H2/Pro/b1882792/README.txt)
 
 ## 结语
 
