@@ -1,0 +1,209 @@
+----------------------------------------------------------------------
+ Windows 11 22H2 （Updated March 2023）
+----------------------------------------------------------------------
+#
+# UUID:        b084f7dd-1048-4621-8034-d017598a5343
+# SHORT ID:    b084f7dd
+#
+# PARENT:      
+# CREATE DATE: 2023/07/16
+# CREATE BY:   LU WEIFENG
+# VERSION:     1.0.0001
+# MW LEVEL:    L0
+# HOST:        
+#
+
+----------------------------------------------------------------------
+ ESP vhdx
+----------------------------------------------------------------------
+
+名称: Windows11-22H2-Just-ESP.7z
+大小: 60590693 字节 (57 MiB)
+CRC32: 2935282D
+CRC64: 0CFF3D3E9264D2CE
+SHA256: 0c8e7d340b3e2b201886da63ce5e71f5aa53a0f8488260d6344a3bbcb23a1eca
+SHA1: 343d2fd6e36ca63708d2af11d17ed5550ac60bd5
+BLAKE2sp: 627a006afe8527c598561fc9b85bcd1c8f8afd7951c125187195a684e55d465a
+
+名称: Windows11-22H2-Just-ESP.vhdx
+大小: 272629760 字节 (260 MiB)
+CRC32: B18A9458
+CRC64: 62D71B36226ED358
+SHA256: 9910df9240b011b945c3cbd620c8beb914ec816c69d907307dbdf879016d7203
+SHA1: a5d62c29f178b41cdeb70e73b74e8f12e8b14e1e
+BLAKE2sp: c0f689f603a043cc0a8d4a965a1ba782052dbe50b625034936667036f83536fe
+
+----------------------------------------------------------------------
+ Consumer Editions
+----------------------------------------------------------------------
+#
+# Dism /Apply-Image /ImageFile:install.wim /index:1 /ApplyDir:V:\
+#
+#
+# SOURCE:      Windows 11 Consumer Editions
+# FILE:        zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso
+# SIZE:        5.37GB
+# MD5:         A7C0D5215E0539FB345294BD37DA7E5E
+# SHA1:        3DA43AB5D1EDB9ADC5D56031DD07C7EF4B8A39B6
+# SHA256:      C488E0E55B09F1B67F9420E8F3CF4A5EBF6F31F30B7AB0F9861F2521D4573882
+# LINK:        ed2k://|file|zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso|5768394752|34AAF8D6657A88871C246F0A707B8E0F|/
+#              magnet:?xt=urn:btih:37ca8ebc21e56d98e233b16ebfbb40249dd75c96&dn=zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso&xl=5768394752
+
+#
+# WIM INDEX:   1
+#
+
+名称: Windows11-22H2-Home-L0.7z
+大小: 3918278537 字节 (3736 MiB)
+CRC32: 5A7D618B
+CRC64: AE04800BA0ECA0FD
+SHA256: 65e21731848d7dd3a742e095662fac9b12f799ed097160e657a70b62984d61d2
+SHA1: f98c729e95841e6824626c88d011072479e8f4ca
+BLAKE2sp: 926f7ed018391145794b7060582c494a02df4c5cc1282ad00d8b7631fed46e2b
+
+名称: Windows11-22H2-Home-L0.vhdx
+大小: 10104078336 字节 (9636 MiB)
+CRC32: E02EA61C
+CRC64: A2B9FCCB7E8C3FBD
+SHA256: ca681837fa8ab0d5e9300e3263ef2b4286dbae8a46cd85371eb2c96723b61adc
+SHA1: 627f21811da59cae6e0bab4334be2b40e833c385
+BLAKE2sp: ab1b8ca29093e2cf7be869dcd4f7d9362bd2b3b0d44d1aa3875fddb3981bd26f
+
+#
+# WIM INDEX:   2
+#
+
+名称: Windows11-22H2-HomeS-L0.7z
+大小: 3913306356 字节 (3732 MiB)
+CRC32: 56953AFD
+CRC64: 4E90F1AF8BD5523C
+SHA256: 36bcb2317880fb6b5da6b629cfd2e4ec87d3938026beee937f9f5470ace02cc3
+SHA1: 7dbb77054b8f05898ae5f5447b3f557cf7e9678b
+BLAKE2sp: 012c9afd43fa61af6b8aa8176c3e321a882335d05384e96b82f37f206cbeb100
+
+名称: Windows11-22H2-HomeS-L0.vhdx
+大小: 10104078336 字节 (9636 MiB)
+CRC32: 623B8AD9
+CRC64: 41CBB0519AAB761A
+SHA256: d0d338a3a1bb67dd7095408cafc6417e55c1bccb79d04446def67e055f9ff215
+SHA1: fb03cc2d820e773e963e50150c11cbeb7a8a3843
+BLAKE2sp: a79fd31599aeba1262e66f3b540857027ab7a1e217f0cc10e6aa678a03623857
+
+----------------------------------------------------------------------
+ Business Editions
+----------------------------------------------------------------------
+#
+# Dism /Apply-Image /ImageFile:install.wim /index:1 /ApplyDir:V:\
+#
+#
+# SOURCE:	   Windows 11 Business Editions
+# FILE:		   zh-cn_windows_11_business_editions_version_22h2_updated_march_2023_x64_dvd_3523ddc7.iso
+# SIZE:		   5.28 GB
+# MD5:		   8A96119261B1BB12EDF12E8015F92ECB
+# SHA1:		   8EFD8A70AA0EEB82CCB503B439EE19718810983E
+# SHA256:	   C97B6D041109A4ADC68871FC3B7D85DFB9B3CA49E49433E3AAF27FC2CC278F7C
+# LINK:		   magnet:?xt=urn:btih:47ac857f2ffd723e9bea2ef7afe54ed6c11cdb11&dn=zh-cn_windows_11_business_editions_version_22h2_updated_march_2023_x64_dvd_3523ddc7.iso&xl=5667895296
+#              ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_march_2023_x64_dvd_3523ddc7.iso|5667895296|B862F49760AFB00C1A05E4AD38803E4B|/
+#
+
+#
+# WIM INDEX:   1
+#
+
+名称: Windows11-22H2-Edu-L0.7z
+大小: 3939874193 字节 (3757 MiB)
+CRC32: 1623D8B1
+CRC64: FD5E010060291AC7
+SHA256: 39423d36a3486ef893410ed614f5badddba93f581765145676c69c0307856880
+SHA1: 87f2cf10a457a5049e7c20d8bc3fb9157ab12226
+BLAKE2sp: 0f7e9dc5b34c25acc8624af96047cd47009621045e6231bf11a3e700547a4951
+
+名称: Windows11-22H2-Edu-L0.vhdx
+大小: 10204741632 字节 (9732 MiB)
+CRC32: 87197305
+CRC64: 728B064C6A159F69
+SHA256: 6c9ba97f9b1737ba4e6cb5285c38eae1d82f0910ad53abefcfe6b16c3087f78e
+SHA1: f4832ca77e260b5e73d969865b95f5da43caab65
+BLAKE2sp: e808da99f09f17aa18250734ce04993e9cb6278699ae5d549ac7c068e53eda7f
+
+#
+# WIM INDEX:   2
+#
+
+名称: Windows11-22H2-Ent-L0.7z
+大小: 3930852650 字节 (3748 MiB)
+CRC32: 17E337C5
+CRC64: C944D80DF17D29B1
+SHA256: 5597476cea27043f56144039cd6702fd1ba5565ae774080a8fe6480933b32901
+SHA1: ad6f5abca30778c7ccc0a63fd4ff8a7ce26a3493
+BLAKE2sp: abbb2290f6d07041bfffc47dabb51cab5625ba1b8b74d4ce19cbf437d47cebdd
+
+名称: Windows11-22H2-Ent-L0.vhdx
+大小: 10204741632 字节 (9732 MiB)
+CRC32: 365C3F2A
+CRC64: 8913FB63A92ED2F5
+SHA256: e102c1f0872f5167bdef47e1e4355bad37bb9c7b2e4619a145ae1440ffceb46e
+SHA1: e95eb557ffcf18078a8df862d902a59527aebeb6
+BLAKE2sp: 8c78294d4b97880ad317edeb1958661dfbb2d3eb2d6441f8de6a849d9a326a75
+
+#
+# WIM INDEX:   3
+#
+
+名称: Windows11-22H2-Pro-L0.7z
+大小: 3937154010 字节 (3754 MiB)
+CRC32: 66F4044E
+CRC64: 017040740245C173
+SHA256: 40852be995ef4e948a6a87f5cb87c0dd7830bd8f53f8969ce79748aa0e105e9a
+SHA1: 92a8106eaf2fad09c5caf32d9ca166103aaa033e
+BLAKE2sp: 2f98eb8197af23eb9ec3edcc22ce073c670cc6d472a6b3a8b7bf0c634db9915a
+
+名称: Windows11-22H2-Pro-L0.vhdx
+大小: 10238296064 字节 (9764 MiB)
+CRC32: 302C6EA3
+CRC64: 918EB47468CB5EB6
+SHA256: c3156ca21d804bf844fa324bf7fdf4b2f29dbbbda92c6aa6b44e25d41dc0e204
+SHA1: 93c3bc33937042c2c03f943b7096e6313f1f15bc
+BLAKE2sp: 7773226b18a9512ee426287d290300e62c46fc6be59dee6dbb450811f13a77ff
+
+#
+# WIM INDEX:   4
+#
+
+名称: Windows11-22H2-ProEdu-L0.7z
+大小: 3936965138 字节 (3754 MiB)
+CRC32: EBA19AE6
+CRC64: 745CF7D90183429E
+SHA256: 2f784c9564d647053dbbcd276a75adaf3941c5c10bcc527889143dc7862c347b
+SHA1: 070b82df3e97aa901e1f437b62524dda627c9876
+BLAKE2sp: 912fbdbcbccb33f5dfa105a2caea9a78f73e55b622f7672e2161563380410373
+
+名称: Windows11-22H2-ProEdu-L0.vhdx
+大小: 10204741632 字节 (9732 MiB)
+CRC32: E977D5C3
+CRC64: B5A23D9AFE098C9E
+SHA256: 65841a3487be8b58c0310d82d8489cd4992ce4fab0440952b3509ab0a47c5286
+SHA1: cbcd314278a50a8d31e5705e1b9937f995a4feee
+BLAKE2sp: ebc88f5a264e46f92dc862115afd67934495f0aaf64ffd84cb002c79a0be33f4
+
+#
+# WIM INDEX:   5
+#
+
+名称: Windows11-22H2-ProWS-L0.7z
+大小: 3939139962 字节 (3756 MiB)
+CRC32: 42ABF22A
+CRC64: E83A5ADD6FBFBA17
+SHA256: 0f999fb70370a87568a7a5a7193c4cb648b61c5fca25dc8946e1bf699c0f2167
+SHA1: 2ed40f6eef6c5ebde58373ddf1230c71ab103df2
+BLAKE2sp: 862ad09aa8dc023b70e1773fccaf3d8f3e747d65290557c79a116873c62078b5
+
+名称: Windows11-22H2-ProWS-L0.vhdx
+大小: 10204741632 字节 (9732 MiB)
+CRC32: F6638D94
+CRC64: 73B9103543E49F68
+SHA256: ae6776159ac84de3c7530838e7ca7ab77fdb13aee14686c028c3f0dbdd534bb2
+SHA1: 088b32dc81fb2aa549d499d60f35ea4bf5db6ec6
+BLAKE2sp: a467516c26d6681f39e76da8c69eb09df524406f6c34ce9d66c8fbef888195b0
+
+=================================================
