@@ -49,7 +49,7 @@ VHD(x)镜像格式支持Fixed、Dynamic、Difference三种模式，其中Differe
 
 ## 常用系统
 
-## Windows 10
+### Windows 10
 
 - [Windows 10 22H2](Windows/10/22H2/README.txt)  
   - ISO [Consumer Editions](Windows/10/22H2/ISO/9a093d20/README.txt) [Bussiness Editions](Windows/10/22H2/ISO/9a792b10/README.txt)
@@ -57,13 +57,24 @@ VHD(x)镜像格式支持Fixed、Dynamic、Difference三种模式，其中Differe
   - Home [L1](Windows/10/22H2/Home/a1c562f3/README.txt)
   - Professional [L1](Windows/10/22H2/Pro/a1fe3133/README.txt)
 
-## Windows 11
+### Windows 11
 
 - [Windows 11 22H2](Windows/11/22H2/README.txt)  
   - ISO [Consumer Editions](Windows/11/22H2/ISO/9b82c4b2/README.txt) [Bussiness Editions](Windows/11/22H2/ISO/9bee62ca/README.txt)
   - 全部发行版本 [L0](Windows/11/22H2/L0/b084f7dd/README.txt)
   - Home [L1](Windows/11/22H2/Home/b1978722/README.txt)
   - Professional [L1](Windows/11/22H2/Pro/b1882792/README.txt)
+
+## 常见计算机
+
+### Intel NUC
+
+- 豆子峡谷 Bean Canyon
+  - Windows 10 22H2 Home [L2](/Intel%20NUC/NUC8BE/Windows10%20Home/a2ea1d8a/README.txt) [L3](/Intel%20NUC/NUC8BE/Windows10%20Home/a37ef4e9/README.txt) [L4](/Intel%20NUC/NUC8BE/Windows10%20Home/a47de231/README.txt) [L5](/Intel%20NUC/NUC8BE/Windows10%20Home/a50c783d/README.txt)
+  - Windows 10 22H2 Professional [L2](/Intel%20NUC/NUC8BE/Windows10%20Pro/a2ab3303/README.txt) [L3](/Intel%20NUC/NUC8BE/Windows10%20Pro/a37cc628/README.txt) [L4](/Intel%20NUC/NUC8BE/Windows10%20Pro/a4eb4f5b/README.txt) [L5](/Intel%20NUC/NUC8BE/Windows10%20Pro/a526a248/README.txt)
+  - Windows 11 22H2 Home [L2](/Intel%20NUC/NUC8BE/Windows11%20Home/b213da86/README.txt) [L3](/Intel%20NUC/NUC8BE/Windows11%20Home/b36e1592/README.txt)
+- 猎豹峡谷 Panther Canyon 
+  - Windows 11 22H2 Professional [L2](/Intel%20NUC/NUC11PA/Windows11%20Pro/b2fe8f18/README.txt) [L3](/Intel%20NUC/NUC11PA/Windows11%20Pro/b3056145/README.txt) [L4](/Intel%20NUC/NUC11PA/Windows11%20Pro/b4e4fc19/README.txt) [L5](/Intel%20NUC/NUC11PA/Windows11%20Pro/b5ffb252/README.txt)
 
 ## 结语
 
