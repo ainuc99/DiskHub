@@ -6,15 +6,16 @@
 # SHORT ID:    9a093d20
 #
 
-Windows 11 (consumer editions), version 22H2 (updated March 2023) (x64) - DVD (Chinese-Simplified)
+Windows 10 (consumer editions), version 22H2 (updated March 2023) (x64) - DVD (Chinese-Simplified)
 
-# 文件：        zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso
-# 大小：        5.37GB
-# MD5：         A7C0D5215E0539FB345294BD37DA7E5E
-# SHA1：        3DA43AB5D1EDB9ADC5D56031DD07C7EF4B8A39B6
-# SHA256：      C488E0E55B09F1B67F9420E8F3CF4A5EBF6F31F30B7AB0F9861F2521D4573882
-# LINK          ed2k://|file|zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso|5768394752|34AAF8D6657A88871C246F0A707B8E0F|/
-#               magnet:?xt=urn:btih:37ca8ebc21e56d98e233b16ebfbb40249dd75c96&dn=zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso&xl=5768394752
+# SOURCE：      Windows 10 Consumer Editions
+# FILE：        zh-cn_windows_10_consumer_editions_version_22h2_updated_march_2023_x64_dvd_1e27e10b.iso
+# SIZE：        5.69GB
+# MD5：         CB876CBA45854A0D720F30449B4897AF
+# SHA1：        747F7E368F0969D4720E37317AEC0958B088EA39
+# SHA256：      7376749819E4D4610331A65E0B8BFF681E22AFE1865B90B6DFA8C3EF7C1080AA
+# LINK          ed2k://|file|zh-cn_windows_10_consumer_editions_version_22h2_updated_march_2023_x64_dvd_1e27e10b.iso|6106974208|094E653D4D14BA3869E74DE931A8233A|/
+#               magnet:?xt=urn:btih:2681c04f2043bd07c5f5307c1849fa90b0eac7e2&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_march_2023_x64_dvd_1e27e10b.iso&xl=6106974208
 
 映像的详细信息: e:\sources\install.wim
 
@@ -47,3 +48,5 @@ Windows 11 (consumer editions), version 22H2 (updated March 2023) (x64) - DVD (C
 名称: Windows 10 专业工作站版
 描述: Windows 10 专业工作站版
 大小: 15,964,001,885 个字节
+
+=================================================
