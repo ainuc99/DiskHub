@@ -1,0 +1,209 @@
+----------------------------------------------------------------------
+ Windows 10 22H2 （Updated March 2023）
+----------------------------------------------------------------------
+#
+# UUID:        a0b28d74-55a9-4e9b-8fe2-f1b7ae12d130
+# SHORT ID:    a0b28d74
+#
+# PARENT:      
+# CREATE DATE: 2023/07/16
+# CREATE BY:   LU WEIFENG
+# VERSION:     1.0.0001
+# MW LEVEL:    L0
+# HOST:        
+#
+----------------------------------------------------------------------
+ ESP vhdx
+----------------------------------------------------------------------
+
+名称: Windows10-22H2-Just-ESP.vhdx
+大小: 239075328 字节 (228 MiB)
+CRC32: DBC8210C
+CRC64: 544CED0D61671EDF
+SHA256: 24aca25ea02f7e6607a97d57816483036779f7601b2b1e8377d4b9f6ffe3d477
+SHA1: 1e1879d3bcf3a8dd059ed1f3b52ede7f69b9d597
+BLAKE2sp: d8ebeac5aea52387276ef67d23531332d848c68289f55a4911e2a4810024531b
+
+名称: Windows10-22H2-Just-ESP.7z
+大小: 16530496 字节 (15 MiB)
+CRC32: 35B3BB48
+CRC64: D7DF697BAE0421D8
+SHA256: 97219dd294e473d20da8c2e1d04500e02ff9386f92916959b6beb116cd3cdb56
+SHA1: f0a0446626f6f7727861aea2aa22c3f417343c0d
+BLAKE2sp: e41a356f38736da0c5a09b8b56ace64f56ba3513ceb5e51e546039e160444d6c
+
+----------------------------------------------------------------------
+ Consumer Editions
+----------------------------------------------------------------------
+#
+# Dism /Apply-Image /ImageFile:install.wim /index:1 /ApplyDir:V:\
+#
+#
+# SOURCE：      Windows 10 Consumer Editions
+# 文件：        zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso
+# 大小：        5.37GB
+# MD5：         A7C0D5215E0539FB345294BD37DA7E5E
+# SHA1：        3DA43AB5D1EDB9ADC5D56031DD07C7EF4B8A39B6
+# SHA256：      C488E0E55B09F1B67F9420E8F3CF4A5EBF6F31F30B7AB0F9861F2521D4573882
+# LINK          ed2k://|file|zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso|5768394752|34AAF8D6657A88871C246F0A707B8E0F|/
+#               magnet:?xt=urn:btih:37ca8ebc21e56d98e233b16ebfbb40249dd75c96&dn=zh-cn_windows_11_consumer_editions_version_22h2_updated_march_2023_x64_dvd_081db11f.iso&xl=5768394752
+#
+
+#
+# WIM INDEX:   1
+#
+
+名称: Windows10-22H2-Home-L0.vhdx
+大小: 10137632768 字节 (9668 MiB)
+CRC32: F92A0076
+CRC64: F7483E61D8E5AA33
+SHA256: b3d2c55438d8ea42c77d17c4188831f5e56404a3939b6f1b789609cf4671bd8a
+SHA1: 7e23aac77a8b3a52041b27653a4e9d05ed1b1676
+BLAKE2sp: ed87752b2f30e0c3a4a8d89eddca60f182b8d945ec8b64b6f9d404359c94d764
+
+名称: Windows10-22H2-Home-L0.7z
+大小: 3926675828 字节 (3744 MiB)
+CRC32: 3049528A
+CRC64: AFDA46916F6D658A
+SHA256: 133ea9bf75a828a8f5481cb07f2c1120d876100d81a0d2d14650004ce60bf7e3
+SHA1: 5e3b4038bc9853acce6b0a0085fbd11c88c51774
+BLAKE2sp: 1617a69d282993bef231d5a9de20b4e3c999ba430b33bc9c60961d8bdf2ac8cf
+
+#
+# WIM INDEX:   2
+#
+
+名称: Windows10-22H2-HomeS-L0.vhdx
+大小: 10137632768 字节 (9668 MiB)
+CRC32: DBCFE624
+CRC64: A873D79CF4C5185D
+SHA256: 982c5a32e69728950375749f5ac08463540b5bad5ef0025527be3aa17c52fb62
+SHA1: dfa74706b27985934134ebe7531a620c9c7f4f7e
+BLAKE2sp: 24e827c9bb464a20cfc0c60c7cdda65db39d455be02cb80f82aab252342bacf5
+
+名称: Windows10-22H2-HomeS-L0.7z
+大小: 3927075309 字节 (3745 MiB)
+CRC32: F29A9CE0
+CRC64: 1E14F03B3806AD96
+SHA256: d704b22f82582097ef03e8ceb04f32c0ee7f20e79b280a4c23515bc6fbec9b61
+SHA1: 2dceb2ad83f2167d2a845e366221ede7fcff0984
+BLAKE2sp: fcaa5c640763b51e6811e347d20193718bee60bdfffd37b61716644da8c2df90
+
+#
+# WIM INDEX:   3
+#
+
+名称: Windows10-22H2-Edu-L0.vhdx
+大小: 10305404928 字节 (9828 MiB)
+CRC32: D27C4FF3
+CRC64: F470227112B0195C
+SHA256: b1abeb0c37f6210045d11989836e56185db368578966d78d3aa3c75939d615d1
+SHA1: c772f93c97ce4fc2439153a347d9602a98b94e33
+BLAKE2sp: c419e001bdf4dd571eacfd8790f21edcff72a8473ab788b3f70bb02dd3d4f091
+
+名称: Windows10-22H2-Edu-L0.7z
+大小: 3950901222 字节 (3767 MiB)
+CRC32: 2E397B61
+CRC64: 29E97583E6EC96A2
+SHA256: 0a17df3e2975a49ab8f7e867c351ee220d4dd227d95c06b1eb5166b582d732b2
+SHA1: 616c38644bae4cac3c9ee00fa51d91f870060d37
+BLAKE2sp: bd5c712cfad30cfc34ea1cf305645c7eabed00bfd1dabfcbf1b519690e48d0e6
+
+#
+# WIM INDEX:   4
+#
+
+名称: Windows10-22H2-Pro-L0.vhdx
+大小: 10305404928 字节 (9828 MiB)
+CRC32: B2164A63
+CRC64: B209806181FC764A
+SHA256: dba9a22adbe45f3201ed0cad539cd30df9667843e9cad4f12c2c3b2541cd168e
+SHA1: 645474f4d66e26f5b905cdb50e0caa88482d24a7
+BLAKE2sp: 289ed1ffae952b0f58a0e695723a1b029df32ad77fb855f5417a8cec0fd5bb37
+
+名称: Windows10-22H2-Pro-L0.7z
+大小: 3950141402 字节 (3767 MiB)
+CRC32: F5A3A8A2
+CRC64: BDD5EAABD574003A
+SHA256: 14d1d68400c638ec93eca7f3c4bcf5a9d99b99f330f94edce85a1c51164bc98d
+SHA1: 8fbc5b5e0727d0c622f78ca2c4677b5f7c9145da
+BLAKE2sp: 2d01575d758c6e250009634044ca06e8f93c61b072e1840b9d3594abc70a6ca6
+
+#
+# WIM INDEX:   5
+#
+
+名称: Windows10-22H2-ProEdu-L0.vhdx
+大小: 10305404928 字节 (9828 MiB)
+CRC32: EB948E3D
+CRC64: 1339950AD48FFF2F
+SHA256: f8187e5fbc2de3ee9fdbdecf74d74bfc6d61fb3734935f538f4259e737c2f044
+SHA1: dafc55344868c422f4b45397e54471f9665158e4
+BLAKE2sp: 9453c78fc8c2ea60bd094a9a1055551b5525551cf5cdc20fdd01aa509eeb7ea9
+
+名称: Windows10-22H2-ProEdu-L0.7z
+大小: 3950540398 字节 (3767 MiB)
+CRC32: A39C910C
+CRC64: D034AF41421337F7
+SHA256: 519484be67f3531944d646890acf2be534766b219a7c8b0735ae5c38d3485da8
+SHA1: 19cf940b239a324739cf53c84006e35fb8fb193f
+BLAKE2sp: 865753053d8378923ef127c270a401276f8f013495444a6b2453f17f1a2f6950
+
+#
+# WIM INDEX:   6
+#
+
+名称: Windows10-22H2-ProWS-L0.vhdx
+大小: 10305404928 字节 (9828 MiB)
+CRC32: A285310C
+CRC64: 5D84A0D6BBBECC16
+SHA256: d9f4a045fd6081f6e4b486d57a3da8becdae3905ab71c9fb19e6d87f4eb16d92
+SHA1: d639813985fe5dcab5c3deb110d1b9ee2fb7089c
+BLAKE2sp: a24afa3e593d200b53b9ab9a0d52b967aa1c032a217e7b83e83b09c9372d9899
+
+名称: Windows10-22H2-ProWS-L0.7z
+大小: 3950392389 字节 (3767 MiB)
+CRC32: 6E9D0F72
+CRC64: 68D1C82206E5523E
+SHA256: ab3530acec22e34a073e398493dafd01ae0679a75364285672a350ce186155da
+SHA1: aa14a4d047dd6cc6ed79b4ff007ec4f63e7126cc
+BLAKE2sp: 814193bb134802a13cf0fe91e7d99962f6007aba974ed107347b0051cf2e1bba
+
+----------------------------------------------------------------------
+ Business Editions
+----------------------------------------------------------------------
+#
+# Dism /Apply-Image /ImageFile:install.wim /index:1 /ApplyDir:V:\
+#
+#
+# SOURCE：     Windows 10 Business Editions
+# FILE:        zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso
+# SIZE:        5.56 GB
+# MD5:         4A4AFA4730C15F7011556DE788808D43
+# SHA1:        FAC121AED76EDC418841C8D48EC930E377DD05DF
+# SHA256:      52E1EE5DEF4AE2DEB3FADBC29E35740ABB9C64106E89833386E3BE237544ABCC
+# LINK:        magnet:?xt=urn:btih:dcf16e4b9b13f5dc92865a7832a1712735afcf24&dn=zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso&xl=5970423808
+#              ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_march_2023_x64_dvd_ec43f822.iso|5970423808|BD89F1C3FD6B147C6FF63DA6D8A5CE89|/
+#
+
+#
+# WIM INDEX:   2
+#
+
+名称: Windows10-22H2-Ent-L0.vhdx
+大小: 10271850496 字节 (9796 MiB)
+CRC32: 3B37E6BF
+CRC64: A4DF8008AB7292CD
+SHA256: c6c835880d18ca97e4272ba0366e8070d1fc4eec7f429733b73321545ba91859
+SHA1: bba06414d836e53769bfeffcd21d0443039506db
+BLAKE2sp: 31b0f57f94bd211ae868f4695d32c4b61d32dcda41ceb2bd2cd6255e125406ba
+
+名称: Windows10-22H2-Ent-L0.7z
+大小: 3949605650 字节 (3766 MiB)
+CRC32: A4A43B74
+CRC64: 5FCF10784FEEFC74
+SHA256: fc49117f5b4316feccda6942dd97d7f7f9024e80efd30ee2143dd3d8ed885da7
+SHA1: 9d77d7a0ce2e29577d92b53a674ceee11e279ed7
+BLAKE2sp: 9530bae221e3a2af860265c59ae9b3b1f97bd0f32b8d8124d9b3777726f2bfa5
+
+=================================================
